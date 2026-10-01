@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Reference video
+Personal Portfolio Website.mp4
+*.mp4
+
